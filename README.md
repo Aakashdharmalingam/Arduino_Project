@@ -1,6 +1,5 @@
-# 🕷 Project :
+# Project :
 
---
 
 # 🕷️ Quadruped Robot using Arduino Nano + PCA9685 + Inverse Kinematics
 
