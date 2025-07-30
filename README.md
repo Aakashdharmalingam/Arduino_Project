@@ -75,8 +75,8 @@ Each leg is controlled by solving inverse kinematics for 3 joints (Coxa, Femur, 
 Feel free to reach out or connect with me:
 
 **Aakash D**  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-📬 Email: your.email@example.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/aakash-d-6a1455248/)  
+📬 Email: aakashtommy6@gmail.com  
 
 ---
 
